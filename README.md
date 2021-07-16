@@ -15,3 +15,4 @@ To retrieve and analyze weather data for a hypothetical travel company, PlanMyTr
 - To Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
 - Visualize Travel Data
 Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. 
+![heatmap](https://user-images.githubusercontent.com/84524153/125939368-bdce8eb4-0e0e-42eb-a4ed-68a0f0621c87.png)
